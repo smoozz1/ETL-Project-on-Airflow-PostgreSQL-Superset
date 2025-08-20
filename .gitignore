@@ -1,0 +1,2 @@
+airflow/dags/__pycache__/
+postgres/data/
